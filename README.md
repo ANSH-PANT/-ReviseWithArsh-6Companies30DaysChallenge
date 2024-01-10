@@ -6,3 +6,4 @@ Challenge to solve 90 questions from 6 companies in 30...
 
 Company 1 - Goldman Sachs
 Company 2 - Microsoft
+Company 3 - Walmart
